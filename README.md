@@ -21,7 +21,7 @@ Hi, 👋  I'm enjoyWeb.
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb&hide_border=true" />
 </p>
 
-**📊 My GitHub Stats:**
+**🌱 My GitHub Stats:**
 
 <p align="center">
 <span>  </span>
