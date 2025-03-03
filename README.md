@@ -48,7 +48,7 @@ Hi, 👋  I'm enjoyWeb.
 
 **Design**
 
-<code><img height="20" src="http://img.zlingweb.com/github/ps.png" alt="PhotoShop" title="PhotoShop"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/PS.png" alt="PhotoShop" title="PhotoShop"></code>
 
 ### 📊 This Week I Spent My Time On:
 
