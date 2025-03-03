@@ -1,7 +1,4 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
-</p>
-<p align="center">
 Hi, 👋  I'm enjoyWeb.
 </p>
 <p align="center">
@@ -12,7 +9,9 @@ Hi, 👋  I'm enjoyWeb.
 </p>
 
 ---
-
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
+</p>
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=enjoyWeb" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjoyWeb&layout=compact&langs_count=8" />
