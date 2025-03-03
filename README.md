@@ -20,34 +20,35 @@ Hi, 👋  I'm enjoyWeb.
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb" />
 </div>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=enjoyWeb&theme=minimal" />
-</div>
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
+<img align="right" alt="GIF" src="http://img.zlingweb.com/github/code.gif" width="343" height="220" title="Do what you want!"> 
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="Javascript" title="Javascript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/vue.png" alt="vue" title="vue"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/react.png" alt="react" title="react"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/H5.png" alt="HTML5" title="HTML5"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/CSS.png" alt="CSS3" title="CSS3"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/JS.png" alt="Javascript" title="Javascript"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/GIT.png" alt="Git" title="Git"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/es6.png" alt="ES6" title="ES6"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/jquery.png" alt="jquery" title="jquery"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/NODE.png" alt="node" title="node"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/npm.png" alt="npm" title="npm"></code>
 
 **Tools and Environments**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/webstorm.png" alt="WebStorm" title="WebStorm"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/WEBSTORM.png" alt="WebStorm" title="WebStorm"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/docker.png" alt="Docker" title="Docker"></code>
 <br>
 
 **Design**
 
-<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/ps.png" alt="PhotoShop" title="PhotoShop"></code>
 
 ### 📊 This Week I Spent My Time On:
 
