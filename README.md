@@ -9,6 +9,7 @@ Hi, 👋  I'm enjoyWeb.
 </p>
 
 ---
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
 </p>
@@ -16,13 +17,13 @@ Hi, 👋  I'm enjoyWeb.
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb" />
 </div>
 
-<div align="center">
+<p align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=enjoyWeb" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjoyWeb&layout=compact&langs_count=8" />
 <span>  </span>
-</div>
+</p>
 
-<div align="center"><img src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></div>
+<p align="center"><img src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></p>
 
 ---
 
