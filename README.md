@@ -1,6 +1,11 @@
 <p align="center">
 Hi, 👋  I'm enjoyWeb.
 </p>
+
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
+</p>
+
 <p align="center">
 <a href="http://www.zlingweb.com"><img height="20px" src="http://img.zlingweb.com/github/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87.png"></a>
 <a href="https://blog.csdn.net/u012804440" target="_blank"><img height="20px" src="http://img.zlingweb.com/github/csdn%E5%9B%BE%E6%A0%87.png"></a>
@@ -10,21 +15,25 @@ Hi, 👋  I'm enjoyWeb.
 
 ---
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
-</p>
+**📊 GitHub streak:**
 
 <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb&hide_border=true" />
 </p>
+
+**📊 My GitHub Stats:**
 
 <p align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=enjoyWeb" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjoyWeb&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=enjoyWeb&hide_border=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjoyWeb&hide_border=true&layout=compact&langs_count=8" />
 <span>  </span>
 </p>
 
 <p align="center"><img src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></p>
+
+**📈 This Week I Spent My Time On:**
+
+[![enjoyWeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enjoyWeb&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -53,13 +62,3 @@ Hi, 👋  I'm enjoyWeb.
 **Design**
 
 <code><img height="20" src="http://img.zlingweb.com/github/PS.png" alt="PhotoShop" title="PhotoShop"></code>
-
-### 📊 This Week I Spent My Time On:
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
