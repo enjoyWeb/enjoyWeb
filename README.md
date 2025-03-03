@@ -34,14 +34,14 @@ Hi, 👋  I'm enjoyWeb.
 
 <code><img height="20" src="http://img.zlingweb.com/github/vue.png" alt="vue" title="vue"></code>
 <code><img height="20" src="http://img.zlingweb.com/github/react.png" alt="react" title="react"></code>
-<code><img height="20" src="http://img.zlingweb.com/github/H5.png" alt="HTML5" title="HTML5"></code>
 <code><img height="20" src="http://img.zlingweb.com/github/CSS.png" alt="CSS3" title="CSS3"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/H5.png" alt="HTML5" title="HTML5"></code>
 <code><img height="20" src="http://img.zlingweb.com/github/JS.png" alt="Javascript" title="Javascript"></code>
-<code><img height="20" src="http://img.zlingweb.com/github/GIT.png" alt="Git" title="Git"></code>
 <code><img height="20" src="http://img.zlingweb.com/github/es6.png" alt="ES6" title="ES6"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/GIT.png" alt="Git" title="Git"></code>
+<code><img height="20" src="http://img.zlingweb.com/github/npm.png" alt="npm" title="npm"></code>
 <code><img height="20" src="http://img.zlingweb.com/github/jquery.png" alt="jquery" title="jquery"></code>
 <code><img height="20" src="http://img.zlingweb.com/github/NODE.png" alt="node" title="node"></code>
-<code><img height="20" src="http://img.zlingweb.com/github/npm.png" alt="npm" title="npm"></code>
 
 **Tools and Environments**
 
