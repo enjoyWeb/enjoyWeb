@@ -1,3 +1,3 @@
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Achuan-2+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
-</p>
+<a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%8D%E8%A6%81%E5%81%87%E8%A3%85%E5%BE%88%E5%8A%AA%E5%8A%9B%EF%BC%8C%E9%80%89%E6%8B%A9%E6%AF%94%E5%8A%AA%E5%8A%9B%E9%87%8D%E8%A6%81" alt="Typing SVG" />
+</a>
