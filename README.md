@@ -10,6 +10,9 @@ Hi, 👋  I'm enjoyWeb.
 <a href="http://img.zlingweb.com/github/%E5%B0%8F%E9%A9%AC%E7%94%B2%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" target="_blank"><img  height="20px" src="http://img.zlingweb.com/github/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%9B%BE%E6%A0%87.png"></a>
 <a href="http://img.zlingweb.com/github/%E5%B0%8F%E9%A9%AC%E7%94%B2%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" target="_blank"><img  height="20px" src="http://img.zlingweb.com/github/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%BE%E6%A0%87.png"></a>
 </p>
+
+---
+
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=enjoyWeb" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enjoyWeb&layout=compact&langs_count=8" />
@@ -22,6 +25,10 @@ Hi, 👋  I'm enjoyWeb.
     <img src="https://activity-graph.herokuapp.com/graph?username=enjoyWeb&theme=minimal" />
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+
+---
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 
 **Languages and Frameworks**
 
