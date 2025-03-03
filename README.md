@@ -15,11 +15,7 @@ Hi, 👋  I'm enjoyWeb.
 
 ---
 
-**📊 GitHub streak:**
-
-<p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb&hide_border=true" />
-</p>
+<p align="center"><img src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></p>
 
 **🌱 My GitHub Stats:**
 
@@ -29,11 +25,21 @@ Hi, 👋  I'm enjoyWeb.
 <span>  </span>
 </p>
 
-<p align="center"><img src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></p>
+**📊 GitHub streak:**
+
+<p align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb&hide_border=true" />
+</p>
 
 **📈 This Week I Spent My Time On:**
 
-[![enjoyWeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enjoyWeb&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
