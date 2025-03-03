@@ -16,9 +16,9 @@ Hi, 👋  I'm enjoyWeb.
 <span>  </span>
 </div>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=enjoyWeb&theme=minimal" />
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
