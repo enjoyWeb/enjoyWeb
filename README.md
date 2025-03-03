@@ -11,14 +11,11 @@ Hi, 👋  I'm enjoyWeb.
 ---
 
 <p align="center">
-<span>  </span>
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
-<span>  </span>
 </p>
 <div align="center">
-<span>  </span>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb" />
-<span>  </span>
+<br/>
 </div>
 
 <p align="center">
