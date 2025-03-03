@@ -13,10 +13,10 @@ Hi, 👋  I'm enjoyWeb.
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Do+What+You+Want" alt="Typing SVG" />
 </p>
-<div align="center">
+
+<p align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=enjoyWeb" />
-<br/>
-</div>
+</p>
 
 <p align="center">
 <span>  </span>
