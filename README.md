@@ -15,7 +15,7 @@ Hi, 👋  I'm enjoyWeb.
 
 ---
 
-<p align="center"><img src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></p>
+<p align="center"><img href="" src="http://img.zlingweb.com/github/github-contribution-grid-snake.svg" ></p>
 
 **🌱 My GitHub Stats:**
 
